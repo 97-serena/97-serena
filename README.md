@@ -26,5 +26,5 @@ My academic projects involve web applications, experimental platforms and LLM-po
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/97-serena/97-serena/output/github-snake-dark.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/97-serena/97-serena/output/github-snake.svg" />
+  <img width="560" alt="Contribution snake animation" src="https://raw.githubusercontent.com/97-serena/97-serena/output/github-snake.svg" />
 </picture>
