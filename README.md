@@ -28,10 +28,3 @@ If you think I could be a good fit for your team, or just want to chat, feel fre
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/97-serena/97-serena/output/github-snake-dark.svg" />
-  <img width="560" alt="Contribution snake animation" src="https://raw.githubusercontent.com/97-serena/97-serena/output/github-snake.svg" />
-</picture>
