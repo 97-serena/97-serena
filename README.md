@@ -1,11 +1,18 @@
-## Hi, I'm Shiqi Zhou 👋
+## Hi, nice to meet you, I'm Shiqi Zhou 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&vCenter=true&width=650&lines=M.Sc.+Business+Informatics+%40+University+of+Mannheim;Web+Mining+%C2%B7+Knowledge+Graphs+%C2%B7+Process+Mining;Software+%2B+AI+for+smarter+business+workflows)
 
 I'm an M.Sc. **Business Informatics** student at the **University of Mannheim, Germany** 🇩🇪.
 My academic projects involve web applications, experimental platforms and LLM-powered applications, and I'm interested in how software and AI can improve business workflows.
 
+- 🧩 Recent work: an LLM chatbot on top of a UNESCO World Heritage knowledge graph, and a web platform for process-mining user studies
+- 🎯 Currently seeking **working student (Werkstudent)** or **internship** opportunities in business applications, product support and AI adoption
+- ✈️ Exploring Europe, camera in hand
+- 🇩🇪 Currently improving my German, one Kaffee at a time ☕
+
 ### 🌐 Connect with Me
+
+If you think I could be a good fit for your team, or just want to chat, feel free to reach out!
 
 <a href="mailto:zhousq0924@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
